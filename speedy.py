@@ -13,7 +13,7 @@ import pywhatkit as kit # pip install pywhatkit -> cmd
 import speedtest # pip install speedtest-cli -> cmd
 # import chr
 import wikipedia
-os.environ['GROQ_API_KEY'] = "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" # "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"
+os.environ['GROQ_API_KEY'] = "enter your  own APIkey" 
 from groq import Groq
 
 
